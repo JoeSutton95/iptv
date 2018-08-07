@@ -1,0 +1,73 @@
+#EXTM3U x-tvg-url="http://iptv.matthuisman.nz/au/Canberra/epg.xml.gz"
+
+#EXTINF:-1 tvg-name="10 Bold" tvg-id="tv.101406020621" tvg-logo="http://iptv.matthuisman.nz/au/images/tv.101406020621.png",10 Bold
+http://iptv.matthuisman.nz/au/Canberra/tv.101406020621.m3u8
+
+#EXTINF:-1 tvg-name="7TWO" tvg-id="tv.101305020522" tvg-logo="http://iptv.matthuisman.nz/au/images/tv.101305020522.png",7TWO
+http://iptv.matthuisman.nz/au/Canberra/tv.101305020522.m3u8
+
+#EXTINF:-1 tvg-name="7flix" tvg-id="tv.101305020525" tvg-logo="http://iptv.matthuisman.nz/au/images/tv.101305020525.png",7flix
+http://iptv.matthuisman.nz/au/Canberra/tv.101305020525.m3u8
+
+#EXTINF:-1 tvg-name="7food network Sydney" tvg-id="tv.101305020527" tvg-logo="http://iptv.matthuisman.nz/au/images/tv.101305020527.png",7food network Sydney
+http://iptv.matthuisman.nz/au/Canberra/tv.101305020527.m3u8
+
+#EXTINF:-1 tvg-name="7mate" tvg-id="tv.101305020523" tvg-logo="http://iptv.matthuisman.nz/au/images/tv.101305020523.png",7mate
+http://iptv.matthuisman.nz/au/Canberra/tv.101305020523.m3u8
+
+#EXTINF:-1 tvg-name="9Gem" tvg-id="tv.101204200427" tvg-logo="http://iptv.matthuisman.nz/au/images/tv.101204200427.png",9Gem
+http://iptv.matthuisman.nz/au/Canberra/tv.101204200427.m3u8
+
+#EXTINF:-1 tvg-name="9Go!" tvg-id="tv.101204200428" tvg-logo="http://iptv.matthuisman.nz/au/images/tv.101204200428.png",9Go!
+http://iptv.matthuisman.nz/au/Canberra/tv.101204200428.m3u8
+
+#EXTINF:-1 tvg-name="9Life" tvg-id="tv.101204200424" tvg-logo="http://iptv.matthuisman.nz/au/images/tv.101204200424.png",9Life
+http://iptv.matthuisman.nz/au/Canberra/tv.101204200424.m3u8
+
+#EXTINF:-1 tvg-name="ABC" tvg-id="tv.101002210221" tvg-logo="http://iptv.matthuisman.nz/au/images/tv.101002210221.png",ABC
+http://iptv.matthuisman.nz/au/Canberra/tv.101002210221.m3u8
+
+#EXTINF:-1 tvg-name="ABC Comedy" tvg-id="tv.abc2" tvg-logo="http://iptv.matthuisman.nz/au/images/tv.abc2.png",ABC Comedy
+http://iptv.matthuisman.nz/au/Canberra/tv.abc2.m3u8
+
+#EXTINF:-1 tvg-name="ABC KIDS" tvg-id="tv.101002210222" tvg-logo="http://iptv.matthuisman.nz/au/images/tv.abckids.png",ABC KIDS
+http://iptv.matthuisman.nz/au/Canberra/tv.101002210222.m3u8
+
+#EXTINF:-1 tvg-name="ABC ME" tvg-id="tv.101002210224" tvg-logo="http://iptv.matthuisman.nz/au/images/tv.101002210224.png",ABC ME
+http://iptv.matthuisman.nz/au/Canberra/tv.101002210224.m3u8
+
+#EXTINF:-1 tvg-name="ABC NEWS" tvg-id="tv.101002210220" tvg-logo="http://iptv.matthuisman.nz/au/images/tv.101002210220.png",ABC NEWS
+http://iptv.matthuisman.nz/au/Canberra/tv.101002210220.m3u8
+
+#EXTINF:-1 tvg-name="Channel 9" tvg-id="tv.101204200421" tvg-logo="http://iptv.matthuisman.nz/au/images/tv.101204200421.png",Channel 9
+http://iptv.matthuisman.nz/au/Canberra/tv.101204200421.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports News" tvg-id="tv.fox.sports.news" tvg-logo="http://iptv.matthuisman.nz/au/images/tv.fox.sports.news.png",Fox Sports News
+http://iptv.matthuisman.nz/au/Canberra/tv.fox.sports.news.m3u8
+
+#EXTINF:-1 tvg-name="NITV" tvg-id="tv.320203000305" tvg-logo="http://iptv.matthuisman.nz/au/images/tv.320203000305.png",NITV
+http://iptv.matthuisman.nz/au/Canberra/tv.320203000305.m3u8
+
+#EXTINF:-1 tvg-name="RACING.COM" tvg-id="tv.101305020528" tvg-logo="http://iptv.matthuisman.nz/au/images/tv.101305020528.png",RACING.COM
+http://iptv.matthuisman.nz/au/Canberra/tv.101305020528.m3u8
+
+#EXTINF:-1 tvg-name="Redbull TV" tvg-id="tv.redbull.tv" tvg-logo="http://iptv.matthuisman.nz/au/images/tv.redbull.tv.png",Redbull TV
+http://iptv.matthuisman.nz/au/Canberra/tv.redbull.tv.m3u8
+
+#EXTINF:-1 tvg-name="SBS" tvg-id="tv.320203000301" tvg-logo="http://iptv.matthuisman.nz/au/images/tv.320203000301.png",SBS
+http://iptv.matthuisman.nz/au/Canberra/tv.320203000301.m3u8
+
+#EXTINF:-1 tvg-name="SBS Food" tvg-id="tv.320203000304" tvg-logo="http://iptv.matthuisman.nz/au/images/tv.320203000304.png",SBS Food
+http://iptv.matthuisman.nz/au/Canberra/tv.320203000304.m3u8
+
+#EXTINF:-1 tvg-name="SBS VICELAND" tvg-id="tv.320203000302" tvg-logo="http://iptv.matthuisman.nz/au/images/tv.320203000302.png",SBS VICELAND
+http://iptv.matthuisman.nz/au/Canberra/tv.320203000302.m3u8
+
+#EXTINF:-1 tvg-name="Seven" tvg-id="tv.101305020520" tvg-logo="http://iptv.matthuisman.nz/au/images/tv.101305020520.png",Seven
+http://iptv.matthuisman.nz/au/Canberra/tv.101305020520.m3u8
+
+#EXTINF:-1 tvg-name="TEN" tvg-id="tv.101406020625" tvg-logo="http://iptv.matthuisman.nz/au/images/tv.101406020625.png",TEN
+http://iptv.matthuisman.nz/au/Canberra/tv.101406020625.m3u8
+
+#EXTINF:-1 tvg-name="Your Money" tvg-id="tv.101204200425" tvg-logo="http://iptv.matthuisman.nz/au/images/tv.101204200425.png",Your Money
+http://iptv.matthuisman.nz/au/Canberra/tv.101204200425.m3u8

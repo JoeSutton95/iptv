@@ -1,0 +1,610 @@
+{
+    "tv.101002210220": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "12213426",
+        "channel": "101002210220",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101002210220.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/tv.101002210220/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/tv.101002210220.m3u8",
+        "name": "ABC NEWS",
+        "network": "ABC",
+        "stream_type": "Token",
+        "url": "http://iptv.matthuisman.nz/au/Canberra/tv.101002210220.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        }
+    },
+    "tv.101002210221": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "8966952",
+        "channel": "101002210221",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101002210221.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/tv.101002210221/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/tv.101002210221.m3u8",
+        "name": "ABC",
+        "network": "ABC",
+        "stream_type": "Token",
+        "url": "http://iptv.matthuisman.nz/au/Canberra/tv.101002210221.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        }
+    },
+    "tv.101002210222": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "16808041",
+        "channel": "101002210222",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.abckids.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/tv.101002210222/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/tv.101002210222.m3u8",
+        "name": "ABC KIDS",
+        "network": "ABC",
+        "stream_type": "Token",
+        "url": "http://iptv.matthuisman.nz/au/Canberra/tv.101002210222.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        }
+    },
+    "tv.101002210224": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "12847054",
+        "channel": "101002210224",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101002210224.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/tv.101002210224/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/tv.101002210224.m3u8",
+        "name": "ABC ME",
+        "network": "ABC",
+        "stream_type": "Token",
+        "url": "http://iptv.matthuisman.nz/au/Canberra/tv.101002210224.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        }
+    },
+    "tv.101204200421": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "12847115",
+        "channel": "101204200421",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101204200421.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/tv.101204200421/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/tv.101204200421.m3u8",
+        "name": "Channel 9",
+        "network": "NINE",
+        "stream_type": "Scraped",
+        "url": "http://iptv.matthuisman.nz/au/Canberra/tv.101204200421.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 720,
+            "width": 1280
+        }
+    },
+    "tv.101204200424": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "12846844",
+        "channel": "101204200424",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101204200424.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/tv.101204200424/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/tv.101204200424.m3u8",
+        "name": "9Life",
+        "network": "NINE",
+        "stream_type": "Scraped",
+        "url": "http://iptv.matthuisman.nz/au/Canberra/tv.101204200424.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 720,
+            "width": 1280
+        }
+    },
+    "tv.101204200425": {
+        "cache_id": "37308086",
+        "channel": "101204200425",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101204200425.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/tv.101204200425/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/tv.101204200425.m3u8",
+        "name": "Your Money",
+        "network": "NINE",
+        "stream_type": "DEFAULT",
+        "url": "http://iptv.matthuisman.nz/au/Canberra/tv.101204200425.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.101204200427": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "12846224",
+        "channel": "101204200427",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101204200427.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/tv.101204200427/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/tv.101204200427.m3u8",
+        "name": "9Gem",
+        "network": "NINE",
+        "stream_type": "Scraped",
+        "url": "http://iptv.matthuisman.nz/au/Canberra/tv.101204200427.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 720,
+            "width": 1280
+        }
+    },
+    "tv.101204200428": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "8968373",
+        "channel": "101204200428",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101204200428.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/tv.101204200428/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/tv.101204200428.m3u8",
+        "name": "9Go!",
+        "network": "NINE",
+        "stream_type": "Scraped",
+        "url": "http://iptv.matthuisman.nz/au/Canberra/tv.101204200428.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 720,
+            "width": 1280
+        }
+    },
+    "tv.101305020520": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "8968511",
+        "channel": "101305020520",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101305020520.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/tv.101305020520/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/tv.101305020520.m3u8",
+        "name": "Seven",
+        "network": "SEVEN",
+        "stream_type": "scraped",
+        "url": "http://iptv.matthuisman.nz/au/Canberra/tv.101305020520.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 504,
+            "width": 896
+        }
+    },
+    "tv.101305020522": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "13070713",
+        "channel": "101305020522",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101305020522.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/tv.101305020522/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/tv.101305020522.m3u8",
+        "name": "7TWO",
+        "network": "SEVEN",
+        "stream_type": "scraped",
+        "url": "http://iptv.matthuisman.nz/au/Canberra/tv.101305020522.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 504,
+            "width": 896
+        }
+    },
+    "tv.101305020523": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "9301233",
+        "channel": "101305020523",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101305020523.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/tv.101305020523/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/tv.101305020523.m3u8",
+        "name": "7mate",
+        "network": "SEVEN",
+        "stream_type": "scraped",
+        "url": "http://iptv.matthuisman.nz/au/Canberra/tv.101305020523.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 504,
+            "width": 896
+        }
+    },
+    "tv.101305020525": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "8968224",
+        "channel": "101305020525",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101305020525.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/tv.101305020525/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/tv.101305020525.m3u8",
+        "name": "7flix",
+        "network": "SEVEN",
+        "stream_type": "scraped",
+        "url": "http://iptv.matthuisman.nz/au/Canberra/tv.101305020525.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 360,
+            "width": 640
+        }
+    },
+    "tv.101305020527": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "64170757",
+        "channel": "101305020527",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101305020527.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/tv.101305020527/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/tv.101305020527.m3u8",
+        "name": "7food network Sydney",
+        "network": "SEVEN",
+        "stream_type": "DEFAULT",
+        "url": "http://iptv.matthuisman.nz/au/Canberra/tv.101305020527.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 504,
+            "width": 896
+        }
+    },
+    "tv.101305020528": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "12848270",
+        "channel": "101305020528",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101305020528.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/tv.101305020528/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/tv.101305020528.m3u8",
+        "name": "RACING.COM",
+        "network": "SEVEN",
+        "stream_type": "scraped",
+        "url": "http://iptv.matthuisman.nz/au/Canberra/tv.101305020528.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 360,
+            "width": 640
+        }
+    },
+    "tv.101406020621": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "cache_id": "67850471",
+        "channel": "101406020621",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101406020621.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/tv.101406020621/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/tv.101406020621.m3u8",
+        "name": "10 Bold",
+        "network": "TEN",
+        "stream_type": "DEFAULT",
+        "url": "http://iptv.matthuisman.nz/au/Canberra/tv.101406020621.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        }
+    },
+    "tv.101406020625": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "cache_id": "42452042",
+        "channel": "101406020625",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101406020625.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/tv.101406020625/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/tv.101406020625.m3u8",
+        "name": "TEN",
+        "network": "TEN",
+        "stream_type": "DEFAULT",
+        "url": "http://iptv.matthuisman.nz/au/Canberra/tv.101406020625.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        }
+    },
+    "tv.320203000301": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "12848353",
+        "channel": "320203000301",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.320203000301.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/tv.320203000301/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/tv.320203000301.m3u8",
+        "name": "SBS",
+        "network": "SBS",
+        "stream_type": "DEFAULT",
+        "url": "http://iptv.matthuisman.nz/au/Canberra/tv.320203000301.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        }
+    },
+    "tv.320203000302": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "12848847",
+        "channel": "320203000302",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.320203000302.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/tv.320203000302/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/tv.320203000302.m3u8",
+        "name": "SBS VICELAND",
+        "network": "SBS",
+        "stream_type": "DEFAULT",
+        "url": "http://iptv.matthuisman.nz/au/Canberra/tv.320203000302.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        }
+    },
+    "tv.320203000304": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "48368974",
+        "channel": "320203000304",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.320203000304.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/tv.320203000304/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/tv.320203000304.m3u8",
+        "name": "SBS Food",
+        "network": "SBS",
+        "stream_type": "DEFAULT",
+        "url": "http://iptv.matthuisman.nz/au/Canberra/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        }
+    },
+    "tv.320203000305": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "8982340",
+        "channel": "320203000305",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.320203000305.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/tv.320203000305/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/tv.320203000305.m3u8",
+        "name": "NITV",
+        "network": "SBS",
+        "stream_type": "DEFAULT",
+        "url": "http://iptv.matthuisman.nz/au/Canberra/tv.320203000305.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        }
+    },
+    "tv.abc2": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "channel": "101002210222",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.abc2.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/tv.abc2/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/tv.abc2.m3u8",
+        "name": "ABC Comedy",
+        "network": "ABC",
+        "stream_type": "Token",
+        "url": "http://iptv.matthuisman.nz/au/Canberra/tv.abc2.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        }
+    },
+    "tv.fox.sports.news": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.fox.sports.news.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/tv.fox.sports.news/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/tv.fox.sports.news.m3u8",
+        "name": "Fox Sports News",
+        "stream_type": "DEFAULT",
+        "url": "http://iptv.matthuisman.nz/au/Canberra/tv.fox.sports.news.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 1080,
+            "width": 1920
+        }
+    },
+    "tv.redbull.tv": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "description": "Red Bull TV: beyond the ordinary live events and videos featuring inspirational stories covering sports, music and lifestyle entertainment. Anytime, anywhere.",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.redbull.tv.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Canberra/tv.redbull.tv/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Canberra/tv.redbull.tv.m3u8",
+        "name": "Redbull TV",
+        "stream_type": "DEFAULT",
+        "url": "http://iptv.matthuisman.nz/au/Canberra/tv.redbull.tv.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 1080,
+            "width": 1920
+        }
+    }
+}

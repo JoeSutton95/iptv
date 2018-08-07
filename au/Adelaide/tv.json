@@ -1,0 +1,615 @@
+{
+    "tv.101002210220": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "12213426",
+        "channel": "101002210220",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101002210220.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Adelaide/tv.101002210220/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Adelaide/tv.101002210220.m3u8",
+        "name": "ABC NEWS",
+        "network": "ABC",
+        "stream_type": "Token",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101002210220.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        }
+    },
+    "tv.101002210222": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "16808041",
+        "channel": "101002210222",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.abckids.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Adelaide/tv.101002210222/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Adelaide/tv.101002210222.m3u8",
+        "name": "ABC KIDS",
+        "network": "ABC",
+        "stream_type": "Token",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101002210222.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        }
+    },
+    "tv.101002210224": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "12847054",
+        "channel": "101002210224",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101002210224.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Adelaide/tv.101002210224/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Adelaide/tv.101002210224.m3u8",
+        "name": "ABC ME",
+        "network": "ABC",
+        "stream_type": "Token",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101002210224.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        }
+    },
+    "tv.101002510251": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "8968425",
+        "channel": "101002510251",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101002510251.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Adelaide/tv.101002510251/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Adelaide/tv.101002510251.m3u8",
+        "name": "ABC",
+        "network": "ABC",
+        "stream_type": "Token",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101002510251.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        }
+    },
+    "tv.101204500451": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "12847113",
+        "channel": "101204500451",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101204500451.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Adelaide/tv.101204500451/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Adelaide/tv.101204500451.m3u8",
+        "name": "Channel 9",
+        "network": "NINE",
+        "stream_type": "Scraped",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101204500451.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 720,
+            "width": 1280
+        }
+    },
+    "tv.101204500454": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "12846833",
+        "channel": "101204500454",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101204500454.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Adelaide/tv.101204500454/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Adelaide/tv.101204500454.m3u8",
+        "name": "9Life",
+        "network": "NINE",
+        "stream_type": "Scraped",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101204500454.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 720,
+            "width": 1280
+        }
+    },
+    "tv.101204500457": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "12846279",
+        "channel": "101204500457",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101204500457.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Adelaide/tv.101204500457/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Adelaide/tv.101204500457.m3u8",
+        "name": "9Gem",
+        "network": "NINE",
+        "stream_type": "Scraped",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101204500457.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 720,
+            "width": 1280
+        }
+    },
+    "tv.101204500458": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "12846555",
+        "channel": "101204500458",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101204500458.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Adelaide/tv.101204500458/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Adelaide/tv.101204500458.m3u8",
+        "name": "9Go!",
+        "network": "NINE",
+        "stream_type": "Scraped",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101204500458.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 720,
+            "width": 1280
+        }
+    },
+    "tv.101305020528": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "12848270",
+        "channel": "101305020528",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101305020528.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Adelaide/tv.101305020528/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Adelaide/tv.101305020528.m3u8",
+        "name": "RACING.COM",
+        "network": "SEVEN",
+        "stream_type": "scraped",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101305020528.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 360,
+            "width": 640
+        }
+    },
+    "tv.101305040557": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "64170467",
+        "channel": "101305040557",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101305040557.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Adelaide/tv.101305040557/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Adelaide/tv.101305040557.m3u8",
+        "name": "7food network Adelaide",
+        "network": "SEVEN",
+        "stream_type": "DEFAULT",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101305040557.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 504,
+            "width": 896
+        }
+    },
+    "tv.101305050550": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "8968513",
+        "channel": "101305050550",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101305050550.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Adelaide/tv.101305050550/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Adelaide/tv.101305050550.m3u8",
+        "name": "Seven",
+        "network": "SEVEN",
+        "stream_type": "scraped",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101305050550.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 504,
+            "width": 896
+        }
+    },
+    "tv.101305050552": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "9183832",
+        "channel": "101305050552",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101305050552.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Adelaide/tv.101305050552/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Adelaide/tv.101305050552.m3u8",
+        "name": "7TWO",
+        "network": "SEVEN",
+        "stream_type": "scraped",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101305050552.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 504,
+            "width": 896
+        }
+    },
+    "tv.101305050553": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "9301239",
+        "channel": "101305050553",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101305050553.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Adelaide/tv.101305050553/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Adelaide/tv.101305050553.m3u8",
+        "name": "7mate",
+        "network": "SEVEN",
+        "stream_type": "scraped",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101305050553.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 504,
+            "width": 896
+        }
+    },
+    "tv.101305050555": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "8968229",
+        "channel": "101305050555",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101305050555.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Adelaide/tv.101305050555/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Adelaide/tv.101305050555.m3u8",
+        "name": "7flix",
+        "network": "SEVEN",
+        "stream_type": "scraped",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101305050555.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 360,
+            "width": 640
+        }
+    },
+    "tv.101406050651": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "cache_id": "67850541",
+        "channel": "101406050651",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101406050651.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Adelaide/tv.101406050651/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Adelaide/tv.101406050651.m3u8",
+        "name": "10 Bold",
+        "network": "TEN",
+        "stream_type": "DEFAULT",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101406050651.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        }
+    },
+    "tv.101406050655": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "cache_id": "42452044",
+        "channel": "101406050655",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101406050655.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Adelaide/tv.101406050655/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Adelaide/tv.101406050655.m3u8",
+        "name": "TEN",
+        "network": "TEN",
+        "stream_type": "DEFAULT",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101406050655.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "tv.101406050658": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "cache_id": "42453153",
+        "channel": "101406050658",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.101406050658.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Adelaide/tv.101406050658/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Adelaide/tv.101406050658.m3u8",
+        "name": "10 Peach",
+        "network": "TEN",
+        "stream_type": "DEFAULT",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101406050658.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        }
+    },
+    "tv.320203000301": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "12848353",
+        "channel": "320203000301",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.320203000301.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Adelaide/tv.320203000301/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Adelaide/tv.320203000301.m3u8",
+        "name": "SBS",
+        "network": "SBS",
+        "stream_type": "DEFAULT",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.320203000301.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        }
+    },
+    "tv.320203000302": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "12848847",
+        "channel": "320203000302",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.320203000302.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Adelaide/tv.320203000302/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Adelaide/tv.320203000302.m3u8",
+        "name": "SBS VICELAND",
+        "network": "SBS",
+        "stream_type": "DEFAULT",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.320203000302.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        }
+    },
+    "tv.320203000304": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "48368974",
+        "channel": "320203000304",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.320203000304.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Adelaide/tv.320203000304/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Adelaide/tv.320203000304.m3u8",
+        "name": "SBS Food",
+        "network": "SBS",
+        "stream_type": "DEFAULT",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        }
+    },
+    "tv.320203000305": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "cache_id": "8982340",
+        "channel": "320203000305",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.320203000305.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Adelaide/tv.320203000305/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Adelaide/tv.320203000305.m3u8",
+        "name": "NITV",
+        "network": "SBS",
+        "stream_type": "DEFAULT",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.320203000305.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        }
+    },
+    "tv.abc2": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "channel": "101002210222",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.abc2.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Adelaide/tv.abc2/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Adelaide/tv.abc2.m3u8",
+        "name": "ABC Comedy",
+        "network": "ABC",
+        "stream_type": "Token",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.abc2.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 576,
+            "width": 1024
+        }
+    },
+    "tv.fox.sports.news": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.fox.sports.news.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Adelaide/tv.fox.sports.news/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Adelaide/tv.fox.sports.news.m3u8",
+        "name": "Fox Sports News",
+        "stream_type": "DEFAULT",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.fox.sports.news.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 1080,
+            "width": 1920
+        }
+    },
+    "tv.redbull.tv": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "description": "Red Bull TV: beyond the ordinary live events and videos featuring inspirational stories covering sports, music and lifestyle entertainment. Anytime, anywhere.",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/tv.redbull.tv.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Adelaide/tv.redbull.tv/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Adelaide/tv.redbull.tv.m3u8",
+        "name": "Redbull TV",
+        "stream_type": "DEFAULT",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.redbull.tv.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20",
+        "video": {
+            "codec": "h264",
+            "height": 1080,
+            "width": 1920
+        }
+    }
+}

@@ -1,0 +1,1146 @@
+{
+    "radio.3mdr": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 32000
+        },
+        "description": "Mountain District Radio",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.3mdr.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.3mdr/m.aacp",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.3mdr.aacp",
+        "name": "3MDr",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.3mdr.aacp|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.3pbs": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "description": "Independent Contemporary Radio",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.3pbs.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.3pbs/m.aacp",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.3pbs.aacp",
+        "name": "3PBS",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.3pbs.aacp|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.3rrr": {
+        "description": "Melbourne Independent Radio",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.3rrr.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.3rrr/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.3rrr",
+        "name": "3RRR",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.3rrr|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.curtin.radio": {
+        "audio": {
+            "channels": 1,
+            "codec": "mp3",
+            "sample_rate": 44100
+        },
+        "description": "Curtin FM 100.1 is a broadcast radio station from Perth, Western Australia, Australia, providing 50’s, 60’s, 70’s & 80's Rock and Pop music.",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.curtin.radio.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.curtin.radio/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.curtin.radio",
+        "name": "Curtin Radio",
+        "stream_type": "DEFAULT",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.curtin.radio|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.double.j": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "description": "It's the best music from your past, present and future.",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.double.j.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.double.j/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.double.j",
+        "name": "Double J",
+        "stream_type": "DEFAULT",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.double.j|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.6157": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "description": "Jase & PJ In The Morning",
+        "genres": [
+            "Top 40 & Pop",
+            "Popular Artists"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.6157.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6157/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6157",
+        "modified": "1545257524508",
+        "name": "KIIS 101.1",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6157|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.6178": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "description": "The Perfect Mix Of The Music You Love",
+        "genres": [
+            "Mix & Variety",
+            "80s & 90s Hits"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.6178.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6178/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6178",
+        "modified": "1545265302070",
+        "name": "Chemist Warehouse Remix",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6178|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.6180": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "description": "Beats That Move You",
+        "genres": [
+            "Top 40 & Pop",
+            "Hip Hop and R&B"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.6180.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6180/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6180",
+        "modified": "1545265259384",
+        "name": "The Edge Digital",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6180|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.6181": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "description": "Pure Gold. Better Music And More Of It",
+        "genres": [
+            "Classic Rock",
+            "80s & 90s Hits"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.6181.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6181/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6181",
+        "modified": "1545257525792",
+        "name": "GOLD104.3",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6181|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.6440": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "description": "The North Pole's #1 Hit Music Station",
+        "genres": [
+            "Kids & Family",
+            "Holiday"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.6440.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6440/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6440",
+        "modified": "1545265257693",
+        "name": "Elf Radio",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6440|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.6530": {
+        "active": true,
+        "description": "Artists Making The Headlines This Week",
+        "genres": [
+            "Rock",
+            "Top 40 & Pop"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.6530.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6530/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6530.pls",
+        "modified": "1545265325455",
+        "name": "Noise11",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6530.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.6710": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "description": "Melbourne’s Favourite News, Talk & Sport",
+        "genres": [
+            "News & Talk",
+            "Sports"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.6710.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6710/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6710",
+        "modified": "1545257563338",
+        "name": "3AW Melbourne",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6710|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.6714": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "description": "Melbourne - All Sports, All The Time",
+        "genres": [
+            "Sports"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.6714.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6714/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6714",
+        "modified": "1545257562004",
+        "name": "Macquarie Sports Radio 1278 AM",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6714|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.6793": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "description": "Australia’s Ultimate 90s Station",
+        "genres": [
+            "Mix & Variety",
+            "80s & 90s Hits"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.6793.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6793/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6793",
+        "modified": "1545265264930",
+        "name": "The 90s iHeartRadio",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6793|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.6794": {
+        "active": true,
+        "description": "Australia’s Ultimate 80s Station",
+        "genres": [
+            "Mix & Variety",
+            "80s & 90s Hits"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.6794.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6794/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6794.pls",
+        "modified": "1545265262284",
+        "name": "The 80s iHeartRadio",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6794.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.6902": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "description": "The Weeks Hottest Tracks on iHeartRadio",
+        "genres": [
+            "Popular Artists",
+            "Top 40 & Pop"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.6902.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6902/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6902",
+        "modified": "1545265266237",
+        "name": "iHeartRadio Countdown AUS",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6902|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.6941": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "description": "Devoted To All Things Dance",
+        "genres": [
+            "Top 40 & Pop",
+            "Dance"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.6941.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6941/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6941",
+        "modified": "1545265267840",
+        "name": "iHeartRadio Dance",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6941|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.6970": {
+        "active": true,
+        "description": "A Station Dedicated to Kids",
+        "genres": [
+            "Kids & Family"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.6970.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6970/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6970.pls",
+        "modified": "1545265308025",
+        "name": "Little Rockers Radio",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6970.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.6995": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "description": "Asia’s Home Grown Chart Show w/ Dom Lau",
+        "genres": [
+            "Multicultural",
+            "Top 40 & Pop"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.6995.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6995/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6995",
+        "modified": "1545265300728",
+        "name": "Asia Pop 40",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6995|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.6996": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "description": "From Back in the Day",
+        "genres": [
+            "Hip Hop and R&B",
+            "R&B"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.6996.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6996/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6996",
+        "modified": "1545265271052",
+        "name": "iHeartRadio Old Skool",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6996|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.6998": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "description": "News and Information in Your Language",
+        "genres": [
+            "News & Talk",
+            "Multicultural"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.6998.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6998/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6998",
+        "modified": "1545265289037",
+        "name": "SBS Radio 1",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6998|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7025": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "description": "News and Information in Your Language",
+        "genres": [
+            "News & Talk",
+            "Multicultural"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7025.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7025/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7025",
+        "modified": "1545265290363",
+        "name": "SBS Radio 2",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7025|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7026": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "description": "News and information in your language",
+        "genres": [
+            "News & Talk",
+            "Multicultural"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7026.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7026/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7026",
+        "modified": "1545265292139",
+        "name": "SBS Radio 3",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7026|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7028": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "description": "The Hottest K-Pop, J-Pop, C-Pop!",
+        "genres": [
+            "World",
+            "Multicultural"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7028.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7028/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7028",
+        "modified": "1545265299379",
+        "name": "SBS PopAsia",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7028|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7029": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "description": "Chill to Relaxing Sounds of World Music",
+        "genres": [
+            "World",
+            "Multicultural"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7029.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7029/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7029",
+        "modified": "1545265294879",
+        "name": "SBS Chill",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7029|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7030": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "description": "Australian News in Arabic",
+        "genres": [
+            "News & Talk",
+            "Multicultural"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7030.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7030/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7030",
+        "modified": "1545265296398",
+        "name": "SBS Arabic24",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7030|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7031": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "description": "Non-Stop Desi Pop. Bhangra to Bollywood!",
+        "genres": [
+            "World",
+            "Multicultural"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7031.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7031/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7031",
+        "modified": "1545265298043",
+        "name": "SBS PopDesi",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7031|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7050": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "description": "The Aussie Hits You Love",
+        "genres": [
+            "Rock",
+            "80s & 90s Hits"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7050.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7050/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7050",
+        "modified": "1545265323350",
+        "name": "iHeartAustralia",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7050|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7075": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "description": "Valentine's Dedications with Dr. Love",
+        "genres": [
+            "R&B",
+            "Mix & Variety"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7075.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7075/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7075",
+        "modified": "1545265312349",
+        "name": "iHeartYou",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7075|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7103": {
+        "active": true,
+        "description": "Sounds Like You",
+        "genres": [
+            "80s & 90s Hits",
+            "Alternative"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7103.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7103/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7103.pls",
+        "modified": "1539780471342",
+        "name": "NEXT",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7103.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7110": {
+        "active": true,
+        "description": "Australia's Only Continuous News Station",
+        "genres": [
+            "Traffic, Weather & News",
+            "News & Talk"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7110.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7110/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7110.pls",
+        "modified": "1545265279044",
+        "name": "ABC News",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7110.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7111": {
+        "active": true,
+        "description": "The Ideas Network",
+        "genres": [
+            "Public Radio",
+            "News & Talk"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7111.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7111/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7111.pls",
+        "modified": "1545265226291",
+        "name": "RN",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7111.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7112": {
+        "active": true,
+        "description": "100% Pure Sport",
+        "genres": [
+            "Sports",
+            "Public Radio"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7112.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7112/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7112.pls",
+        "modified": "1545265280410",
+        "name": "ABC Grandstand",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7112.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7115": {
+        "active": true,
+        "description": "We Love Music",
+        "genres": [
+            "Public Radio",
+            "Alternative"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7115.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7115/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7115.pls",
+        "modified": "1545265273813",
+        "name": "triplej",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7115.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7116": {
+        "active": true,
+        "description": "100% Independent Australian Music",
+        "genres": [
+            "Popular Artists",
+            "Alternative"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7116.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7116/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7116.pls",
+        "modified": "1545265277352",
+        "name": "triplej Unearthed",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7116.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7118": {
+        "active": true,
+        "description": "The World's Most Beautiful Music",
+        "genres": [
+            "Classical",
+            "Public Radio"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7118.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7118/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7118.pls",
+        "modified": "1545265282062",
+        "name": "ABC Classic FM",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7118.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7123": {
+        "active": true,
+        "description": "Simply Classical",
+        "genres": [
+            "Classical",
+            "Public Radio"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7123.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7123/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7123.pls",
+        "modified": "1545265283364",
+        "name": "ABC Classic 2",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7123.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7124": {
+        "active": true,
+        "description": "Just Jazz",
+        "genres": [
+            "Jazz",
+            "Public Radio"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7124.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7124/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7124.pls",
+        "modified": "1545265284769",
+        "name": "ABC Jazz",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7124.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7125": {
+        "active": true,
+        "description": "Australia's Home of Country Music",
+        "genres": [
+            "Country",
+            "Public Radio"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7125.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7125/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7125.pls",
+        "modified": "1545265286125",
+        "name": "ABC Country",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7125.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7132": {
+        "active": true,
+        "description": "It's Where You Live",
+        "genres": [
+            "Public Radio",
+            "News & Talk"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7132.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7132/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7132.pls",
+        "modified": "1545257549674",
+        "name": "ABC Radio Melbourne",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7132.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7222": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "description": "The Hottest Country Hits",
+        "genres": [
+            "Country",
+            "Blues"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7222.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7222/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7222",
+        "modified": "1545265272515",
+        "name": "iHeartCountry Australia",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7222|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7260": {
+        "active": true,
+        "description": "Guac ‘n’ Roll",
+        "genres": [
+            "Spanish",
+            "Mexico"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7260.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7260/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7260.pls",
+        "modified": "1545265318527",
+        "name": "Guzman Y Gomez",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7260.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7293": {
+        "active": true,
+        "description": "Uniting to Create Equality",
+        "genres": [
+            "Dance",
+            "Pride"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7293.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7293/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7293.pls",
+        "modified": "1545265314055",
+        "name": "Sydney Gay Lesbian Mardi Gras",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7293.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7308": {
+        "active": true,
+        "description": "Escape to a Tropical Life on Bondi Beach",
+        "genres": [
+            "Reggae & Island",
+            "R&B"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7308.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7308/m.pls",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7308.pls",
+        "modified": "1545265320390",
+        "name": "Bondi Radio",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7308.pls|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7415": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "description": "Playing the Best of Artists Who are Dead",
+        "genres": [
+            "Oldies",
+            "Classic Rock"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7415.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7415/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7415",
+        "modified": "1545265330295",
+        "name": "Radio Dead",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7415|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7419": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "description": "The Faction – Heavy Music Streaming 24/7",
+        "genres": [
+            "Punk",
+            "Metal"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7419.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7419/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7419",
+        "modified": "1545265326882",
+        "name": "The Faction Radio",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7419|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7421": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 44100
+        },
+        "description": "Australia’s Metal Radio Station! \\m/",
+        "genres": [
+            "Punk",
+            "Metal"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7421.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7421/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7421",
+        "modified": "1545265328631",
+        "name": "AndrewHaug.com Metal Radio",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7421|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7547": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 32000
+        },
+        "description": "OUT. LOUD. PROUD",
+        "genres": [
+            "Dance",
+            "Pride"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7547.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7547/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7547",
+        "modified": "1545265315452",
+        "name": "JOY",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7547|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7918": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 32000
+        },
+        "description": "Soundtrack to Your Family’s Day & Night",
+        "genres": [
+            "Kids & Family"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7918.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7918/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7918",
+        "modified": "1545265310982",
+        "name": "Kinderling Kids Radio",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7918|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7919": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 32000
+        },
+        "description": "Soundtrack to Your Family’s Day & Night",
+        "genres": [
+            "Kids & Family"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7919.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7919/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7919",
+        "modified": "1545265274930",
+        "name": "Kinderling Kids Radio",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7919|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.7967": {
+        "active": true,
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "description": "Learn, Play And Sing Along",
+        "genres": [
+            "Public Radio",
+            "Kids & Family"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.7967.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7967/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7967",
+        "modified": "1545265306675",
+        "name": "ABC KIDS Listen",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7967|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.ih.8005": {
+        "active": true,
+        "audio": {
+            "channels": 1,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "description": "Wherever You are in Asia & the Pacific",
+        "genres": [
+            "Public Radio",
+            "News & Talk"
+        ],
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.ih.8005.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.8005/m",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.8005",
+        "modified": "1545265287738",
+        "name": "Radio Australia",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.ih.8005|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    },
+    "radio.triple.m.melbourne": {
+        "audio": {
+            "channels": 2,
+            "codec": "aac",
+            "sample_rate": 48000
+        },
+        "description": "Melbourne's #1 radio station for Rock and AFL",
+        "headers": {
+            "Referer": "%20",
+            "User-Agent": "FMLE/3.0 (compatible; FMSc/1.0)",
+            "X-Forwarded-For": "52.62.247.239"
+        },
+        "logo": "http://iptv.matthuisman.nz/au/images/radio.triple.m.melbourne.png",
+        "mjh_master": "http://iptv.matthuisman.nz/au/Melbourne/radio.triple.m.melbourne/m.m3u8",
+        "mjh_sub": "http://iptv.matthuisman.nz/au/Melbourne/radio.triple.m.melbourne.m3u8",
+        "name": "Triple M Melbourne",
+        "url": "http://iptv.matthuisman.nz/au/Melbourne/radio.triple.m.melbourne.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20"
+    }
+}
